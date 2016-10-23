@@ -1,0 +1,11 @@
+{
+  "name": "Radar_Tweak",
+  "version": "0.0.1",
+  "title": "Alien Poop Maid",
+  "author": "Mengmoshu",
+  "contact": "www.factorioforums.com",
+  "description": "Extends the range of normal Radars, and increases their energy cost. Forked from Radarplus for RSO.",
+  "dependencies": ["base"],
+  "license": "MIT",
+  "factorio_version": "0.14"
+} 
